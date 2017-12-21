@@ -609,7 +609,13 @@ a:hover, a:active, a:focus {
   padding-top: 16px;
 }
 
+/*---------------------------------------
+   Instagram section
+-----------------------------------------*/
 
+#instagram {
+
+}
 
 /*---------------------------------------
    Footer section
@@ -617,6 +623,7 @@ a:hover, a:active, a:focus {
 
 footer {
     border-top: 1px solid #f0f0f0;
+		margin: 0 100px 0 100px;
     padding: 100px 0px;
     position: relative;
 }
